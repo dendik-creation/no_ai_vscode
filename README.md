@@ -13,3 +13,11 @@ This tool provides a quick way to toggle AI features and connectivity in Visual 
 - Re-installs all removed AI extensions
 - Enables inline suggestions and chat
 - Re-enables internet access for VS Code
+
+## How To Use
+1. Open **PowerShell** as an Administrator.
+2. Navigate to the folder containing the script.
+3. Run the script by executing the following command:
+   ```powershell
+   powershell -ExecutionPolicy Bypass -File .\main.ps1
+   ```
